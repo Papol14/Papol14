@@ -1,5 +1,4 @@
-# 💫 About Me:
-👨‍💻 Currently working on: Web Development<br>🤝 Looking to collaborate on: React projects<br>🔐 Need help with: Smart contract projects<br>📘 Currently learning: Assembly Optimization (AO)<br>📬 Ask me about: Collaboration opportunities!<br>💡 Fun fact: Did you know the first-ever computer virus was created in 1986 and was named "Brain"? 🧠🖥️
+👨‍💻 Currently working on: Web Development<br>🤝 Looking to collaborate on: React projects<br>🔐 Need help with: Smart contract projects<br>📘 Currently learning: Assembly Optimization (AO)<br>📬 Ask me about: Collaboration opportunities!
 
 
 ## 🌐 Socials:
