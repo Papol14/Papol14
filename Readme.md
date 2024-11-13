@@ -1,4 +1,4 @@
-👨‍💻 Currently working on: Web Development<br>🤝 Looking to collaborate on: React projects<br>🔐 Need help with: Smart contract projects<br>📘 Currently learning: Assembly Optimization (AO)<br>📬 Ask me about: Collaboration opportunities!
+👨‍💻 Currently working on: Web Development<br>🤝 Looking to collaborate on: React projects<br>🔐 Need help with: Smart contract projects<br>📘 Currently learning: Application Optimization (AO)<br>📬 Ask me about: Collaboration opportunities!
 
 
 ## 🌐 Socials:
